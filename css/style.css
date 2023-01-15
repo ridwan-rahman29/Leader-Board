@@ -1,0 +1,54 @@
+/*-----------------
+    Main CSS Start
+-------------------*/
+:root{
+    --primary-font: 'Poppins', sans-serif;
+    --secondary-font: 'Roboto', sans-serif;
+}
+
+
+/*-----------------
+    Common Styles
+-------------------*/
+
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #F3F1FF;
+    font-family: var(--primary-font);
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 100%;
+    max-width: 1140px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+
+/*-----------------
+    Header Start 
+-------------------*/
+
+
+
+
+
+/*---------------
+    Header End 
+-----------------*/
